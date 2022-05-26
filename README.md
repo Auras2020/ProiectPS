@@ -83,7 +83,7 @@ eveniment si va fi creat un bilet pentru client, afisandu-se un mesaj scurt de c
 evenimentele curente clientul se poate deloga din aplicatie.
 
 &nbsp;    Dupa ce se logeaza in aplicatie, vanzatorul poate vedea incasarile inregistrate pentru filme si spectacole, dar si cele totale reprezentate ca suma dintre 
-incasarile filmelor si a spectacolelor. Dupa ce vizualizeaza aceste informatii, vanzatorul de poate deloga din aplicatie.
+incasarile filmelor si a spectacolelor. Dupa ce vizualizeaza aceste informatii, vanzatorul se poate deloga din aplicatie.
 
 ![image](https://user-images.githubusercontent.com/72803005/170587384-d85fd72e-164c-4895-80a2-bf3a8b9077fc.png)
 
