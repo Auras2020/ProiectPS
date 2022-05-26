@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_addfilm.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_admin.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_adminlogin.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_adminmenu.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_adminmenu1.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_angajat.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_angajatlogin.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_client.xml" value="0.25" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_clientfilm.xml" value="0.22" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_clientlogin.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_clientspectacol.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_deletefilm.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_getfilms.xml" value="0.25" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_getfilms1.xml" value="0.33" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_getspectacole.xml" value="0.33" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_getspectacole1.xml" value="0.33" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_updatefilm.xml" value="0.17" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_updatespectacol.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_vanzator.xml" value="0.25" />
+        <entry key="..\:/Users/Auras/Desktop/an 3 sem2/ps/tema3/app/src/main/res/layout/activity_vanzatorlogin.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_addfilm.xml" value="0.2" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_addspectacol.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_admin.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_adminlogin.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_adminmenu.xml" value="0.1" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_angajat.xml" value="0.2" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_angajatlogin.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_biletview.xml" value="0.536" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_client.xml" value="0.1" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_clientfilm.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_clientlogin.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_clientspectacol.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_deletefilm.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_deletespectacol.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_filmview.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_getfilms.xml" value="0.35311143270622286" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_getfilms1.xml" value="0.264" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_getspectacole.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_getspectacole1.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_spectacolview.xml" value="0.4" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_updatefilm.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_updatespectacol.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_vanzator.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/ps/tema3/app/src/main/res/layout/activity_vanzatorlogin.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.163" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/drawable/ic_usr.xml" value="0.1" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/drawable/textview_border.xml" value="0.1" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_addfilm.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_addspectacol.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_adminlogin.xml" value="0.25" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_adminmenu.xml" value="0.18" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_adminmenu1.xml" value="0.16" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_client.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_clientlogin.xml" value="0.25" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_deletefilm.xml" value="0.33" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_deletespectacol.xml" value="0.25" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_getfilms.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_updatefilm.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_updatespectacol.xml" value="0.21" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_vanzator.xml" value="0.1" />
+        <entry key="..\:/Users/Auras/Desktop/tema3/app/src/main/res/layout/activity_vanzatorlogin.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

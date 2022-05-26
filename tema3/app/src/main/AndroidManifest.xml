@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.tema3">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/hot_events"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tema3"
+        tools:targetApi="m">
+        <activity android:name=".admin.AdminLogin" />
+        <activity android:name=".admin.AdminMenu" />
+        <activity android:name=".admin.AdminMenuExtins" />
+        <activity android:name=".admin.AdminMenuExtins1" />
+        <activity android:name=".angajat.AngajatLogin" />
+        <activity android:name=".angajat.AngajatMenu" />
+        <activity android:name=".client.ClientLogin" />
+        <activity android:name=".client.ClientMenu" />
+        <activity android:name=".vanzator.VanzatorLogin" />
+        <activity android:name=".vanzator.VanzatorMenu" />
+        <activity android:name=".admin.AddFilm" />
+        <activity android:name=".admin.UpdateFilm" />
+        <activity android:name=".admin.DeleteFilm" />
+        <activity android:name=".admin.GetFilme" />
+        <activity android:name=".client.GetFilme1" />
+        <activity android:name=".admin.AddSpectacol" />
+        <activity android:name=".admin.UpdateSpectacol" />
+        <activity android:name=".admin.DeleteSpectacol" />
+        <activity android:name=".admin.GetSpectacole" />
+        <activity android:name=".client.GetSpectacole1" />
+        <activity android:name=".client.ClientSpectacol" />
+        <activity android:name=".client.ClientFilm" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

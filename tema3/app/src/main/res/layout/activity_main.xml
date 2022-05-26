@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/admin"
+        android:layout_width="161dp"
+        android:layout_height="52dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/purple_500"
+        android:text="LOGIN AS ADMIN"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/client"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.764"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hot_events" />
+
+    <Button
+        android:id="@+id/client"
+        android:layout_width="161dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/purple_500"
+        android:text="LOGIN AS CLIENT"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/vanzator"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.76"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/admin" />
+
+    <Button
+        android:id="@+id/vanzator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/purple_500"
+        android:text="LOGIN AS VANZATOR"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/angajat"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.76"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/client" />
+
+    <Button
+        android:id="@+id/angajat"
+        android:layout_width="161dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="90dp"
+        android:backgroundTint="@color/purple_500"
+        android:text="LOGIN AS ANGAJAT"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.764"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/vanzator" />
+
+    <ImageView
+        android:id="@+id/admin_img"
+        android:layout_width="66dp"
+        android:layout_height="51dp"
+        app:layout_constraintBottom_toTopOf="@+id/client_img"
+        app:layout_constraintEnd_toStartOf="@+id/admin"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hot_events"
+        app:srcCompat="@drawable/admin" />
+
+    <ImageView
+        android:id="@+id/client_img"
+        android:layout_width="66dp"
+        android:layout_height="51dp"
+        app:layout_constraintBottom_toTopOf="@+id/vanzator_img"
+        app:layout_constraintEnd_toStartOf="@+id/client"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/admin_img"
+        app:srcCompat="@drawable/client" />
+
+    <ImageView
+        android:id="@+id/vanzator_img"
+        android:layout_width="67dp"
+        android:layout_height="53dp"
+        app:layout_constraintBottom_toTopOf="@+id/angajat_img"
+        app:layout_constraintEnd_toStartOf="@+id/vanzator"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/client_img"
+        app:srcCompat="@drawable/vanzator" />
+
+    <ImageView
+        android:id="@+id/angajat_img"
+        android:layout_width="66dp"
+        android:layout_height="52dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/angajat"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/vanzator_img"
+        app:layout_constraintVertical_bias="0.412"
+        app:srcCompat="@drawable/angajat" />
+
+    <ImageView
+        android:id="@+id/hot_events"
+        android:layout_width="282dp"
+        android:layout_height="92dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginEnd="66dp"
+        android:layout_marginBottom="38dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toTopOf="@+id/admin"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/platform"
+        app:srcCompat="@drawable/hot_events" />
+
+    <ImageView
+        android:id="@+id/platform"
+        android:layout_width="282dp"
+        android:layout_height="185dp"
+        android:layout_marginStart="62dp"
+        android:layout_marginTop="59dp"
+        android:layout_marginEnd="67dp"
+        android:adjustViewBounds="true"
+        app:layout_constraintBottom_toTopOf="@+id/hot_events"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/platform" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

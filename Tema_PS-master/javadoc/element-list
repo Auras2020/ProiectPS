@@ -1,0 +1,8 @@
+com.example.tema1
+com.example.tema1.controller
+com.example.tema1.model
+com.example.tema1.repo
+com.example.tema1.service
+com.example.tema1.test.controller
+com.example.tema1.test.repository
+com.example.tema1.test.service
